@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23719227013",
+    "project_id": "expense-manager-2021",
+    "storage_bucket": "expense-manager-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23719227013:android:f05a211b68a6e98cbc83ec",
+        "android_client_info": {
+          "package_name": "com.anucha.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23719227013-qnj5c0inievsi1cc2ecoar8c5ejqgbne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5BSf61edu_23AjBlJgwMJUdPZ9lnrT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23719227013-qnj5c0inievsi1cc2ecoar8c5ejqgbne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
